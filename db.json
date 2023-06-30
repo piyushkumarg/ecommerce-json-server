@@ -3277,6 +3277,16 @@
   ],
   "users": [
     {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "Test@123",
+      "addresses": [
+       
+      ],
+      "role": "user",
+      "id": 1
+    },
+    {
       "name": "admin",
       "email": "admin@gmail.com",
       "password": "Qwert123",

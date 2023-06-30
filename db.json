@@ -3276,7 +3276,16 @@
     }
   ],
   "users": [
-    
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "Qwert123",
+      "addresses": [
+       
+      ],
+      "role": "admin",
+      "id": 2
+    }
   ],
   "cart": [
     
